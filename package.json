@@ -1,6 +1,6 @@
 {
   "name": "fis-postprocessor-tpl2js",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "template to js for fis",
   "main": "index.js",
   "repository": {
